@@ -1,0 +1,99 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12.06.2020, 18:40:15
+    Author     : JBMG
+*/
+
+
+h3{padding-bottom: 20px;
+padding-top: 20px;
+background-color: white;
+margin:5px
+}
+
+.haupt{background-color: white;
+    padding: 1px;
+    margin-top: 1px;
+    width: 40%;
+    height: 40%;
+    padding: 1px;
+    margin: 1px;
+    }
+
+.col-md-5{
+    margin: 1px;
+    }
+
+.col-md-4{
+width: 375px;
+height: 300px;
+margin: auto;
+border: 1px solid red;
+}
+
+#h_description{
+    font-style: italic;
+    font-size: large;
+    color: brown;
+    text-align: left;
+    padding-top: 10px;
+    margin: 1px;
+}
+#description{
+    font-style: italic;
+    color: brown;
+    padding: 1px;
+    text-align: left;
+}
+
+#description2{
+    font-style: italic;
+    color: brown;
+    text-align: center;
+}
+
+#h_temp{
+    font-size: 40px;  
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    padding: 1px;
+    width: 20%;
+  }
+
+.icon {
+    width: 28%;
+    height: 30% ;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding: 1px;
+  }
+
+  .tage{
+      border: red;
+  }
+
+.icon7{
+    width: 12%;
+    height: 12%;
+    padding: 1px;
+    margin: 0px;
+}
+
+#table{
+    color: rgba(33, 25, 155, 0.781);
+    font-style: italic;
+}
